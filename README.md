@@ -3,6 +3,5 @@ Angular
 
 This repository contains angular applications.
 
-
-Angular titulo 2
-=======
+informes@joedayz.pe
+twitter: @joedayz
